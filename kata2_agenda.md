@@ -22,7 +22,7 @@ Agenda
 
 Relevante linker
 ---
-http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife
-http://amirrajan.net/Blog/code-katas-conways-game-of-life
-http://en.wikipedia.org/wiki/Conway's_Game_of_Life
+* http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife
+* http://amirrajan.net/Blog/code-katas-conways-game-of-life
+* http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
