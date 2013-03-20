@@ -1,4 +1,9 @@
-* Invitere Personalisering? (Tomas)
+Avklaringer
+---
+Invitere Personalisering? (Tomas)
+
+Agenda
+---
 * Forberedelser
     * Kjøpe premie (Tomas)
     * Alle tar med egen pc og lader (Henning)
@@ -14,4 +19,10 @@
 * Pause 13:30 (10 min)
 * Mer koding fra 13:45
 * Gjennomgang av løsninger fra 14:15 (30 min)
+
+Relevante linker
+---
+http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife
+http://amirrajan.net/Blog/code-katas-conways-game-of-life
+http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
