@@ -26,3 +26,7 @@ Relevante linker
 * http://amirrajan.net/Blog/code-katas-conways-game-of-life
 * http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
+Eksempel "Løsning"
+---
+https://www.relishapp.com/esambo/practice-game-of-life/docs/evolving-a-living-cell
+
