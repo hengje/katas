@@ -3,11 +3,11 @@ Kata 2
 
 Agenda
 ---
-12:30-12:45 Intro
-12:45-13:30 Coding
-13:30-13:40 Break
-13:40-14:15 More coding
-14:15-14:45 Presentation of solutions
+*   12:30-12:45 Intro
+*   12:45-13:30 Coding
+*   13:30-13:40 Break
+*   13:40-14:15 More coding
+*   14:15-14:45 Presentation of solutions
 
 Last kata
 ---
