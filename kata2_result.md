@@ -6,6 +6,7 @@ Solutions
 * https://github.com/hansogj/Kode-Kata-Conweys
 * https://github.com/fazerish/kodakata-gameoflife
 * https://github.com/tomashm/gameoflife
+* https://github.com/hakonulvestad/kata-gameofworld
 
 Example tests using Relish
 ---
