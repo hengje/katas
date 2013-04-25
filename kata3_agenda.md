@@ -2,6 +2,7 @@
 * Intro
 * Oppdeling i team
 * Koding
+    * Template: https://github.com/hengje/kata-template-java
 * 13:00 Pause (10 min)
 * Koble på GUI, mer koding og evt. begrensninger
 * 14:10 Pause (5 min)
