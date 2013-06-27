@@ -14,6 +14,8 @@ Methodology
 *   Pair programming. New partner if possible
 *   TDD and "Ping pong"
 *   "Baby steps"
+*   Use https://github.com/hengje/kata-template-java to get started
+
 
 Todays kata - Bowling
 ---
