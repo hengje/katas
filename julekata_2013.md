@@ -4,10 +4,10 @@ Julekata
 Agenda
 ---
 *   11:30-11:45 Intro
-*   11:45-12:45 Koding
-*   12:45-13:00 Kaffepåfyll
-*   13:00-14:00 Mer koding
-*   14:00-14:30 Hvert par presenterer sin løsning
+*   11:45-12:30 Koding
+*   12:30-12:40 Kaffepåfyll
+*   12:40-13:30 Mer koding
+*   13:30-14:00 Hvert par presenterer sin løsning
 
 Metodikk
 ---
@@ -19,7 +19,7 @@ Metodikk
 
 Hjelp Julenissen med å telle julegaver!
 ---
-Julenissen trenger hjelp til å telle julegaver. Nissen er litt dårlig med tall, og ønsker derfor at alle tall skrives ut som tallord. Vår oppgave er derfor å skrive en funksjon som tar et tall som input og returnerer et tallord som representerer dette tallet. Nissen har ganske mange gaven som skal telles, funksjonen bør fungere for alle tall mellom Integer.MIN og Integer.MAX. 
+Julenissen trenger hjelp til å telle julegaver. Nissen er litt dårlig med tall, og ønsker derfor at alle tall skrives ut som tallord. Vår oppgave er derfor å skrive en funksjon som tar et tall som input og returnerer et tallord som representerer dette tallet. Nissen har ganske mange gaver som skal telles, funksjonen bør derfor fungere for alle tall mellom Integer.MIN og Integer.MAX. 
 
 Eksempler:
 <table>
